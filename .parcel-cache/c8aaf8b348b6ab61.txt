@@ -1,0 +1,1234 @@
+1233
+35D:\Work\Project\myLaya\package.json132835038961482520 0
+44D:\Work\Project\myLaya\.laya\chrome\lockfile132835047172639137 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\TypeScriptDebugEngine132769425719787226 1
+27D:\Work\Project\myLaya\libs132744160298436744 1
+40D:\Work\Project\myLaya\package-lock.json132769425723576720 0
+93D:\Work\Project\myLaya\.laya\chrome\Default\blob_storage\3b341953-94d5-423f-a6fe-740c19c3a2ef132835047204085731 1
+87D:\Work\Project\myLaya\.laya\chrome\Default\optimization_guide_model_and_features_store132835047207184094 1
+37D:\Work\Project\myLaya\bin\index.html132817179696653047 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-cu.hyb132834738740000000 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\TypeScriptLanguageService132769425719518417 1
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000006132772054441539915 0
+55D:\Work\Project\myLaya\laya\assets\comp\hslider$bar.png132744160300964308 0
+30D:\Work\Project\myLaya\.vscode132744160300883933 1
+74D:\Work\Project\myLaya\node_modules\typescript\lib\lib.esnext.promise.d.ts121436361000000000 0
+56D:\Work\Project\myLaya\node_modules\typescript\README.md121436361000000000 0
+54D:\Work\Project\myLaya\laya\assets\comp\hscroll$up.png132744160300964308 0
+57D:\Work\Project\myLaya\.laya\chrome\Default\Local Storage132744179017552933 1
+46D:\Work\Project\myLaya\laya\assets\test\p1.png132698475241178326 0
+33D:\Work\Project\myLaya\.gitignore132744160300817798 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\UY132487482620000000 0
+74D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.reflect.d.ts121436361000000000 0
+59D:\Work\Project\myLaya\node_modules\typescript\package.json132769425720322903 0
+67D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946132744183268119937 1
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\Targets132769425719548191 1
+34D:\Work\Project\myLaya\.rpt2_cache132761815832720079 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SC132487482620000000 0
+53D:\Work\Project\myLaya\node_modules\.bin\tsserver.cmd132769425722888793 0
+84D:\Work\Project\myLaya\.laya\chrome\MEIPreload\1.0.7.1635461274\manifest.fingerprint132817167759572551 0
+40D:\Work\Project\myLaya\bin\sound\hit.wav132698475241108305 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\bae9926d4fb6885ffcc45dbbae087cd4d3b2926a132762714452726745 0
+28D:\Work\Project\myLaya\.laya132744179013274340 1
+118D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\wasm\index-dir132744179039102319 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AL132487482620000000 0
+27D:\Work\Project\myLaya\dist132835044942835561 1
+73D:\Work\Project\myLaya\.laya\chrome\Default\Site Characteristics Database132835047172738337 1
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN132769425719866582 1
+62D:\Work\Project\myLaya\.laya\chrome\Default\BudgetDatabase\LOG132835047207263459 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KR132487482620000000 0
+29D:\Work\Project\myLaya\.npmrc132791467825726111 0
+27D:\Work\Project\myLaya\laya132744160301552649 1
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK132769425719970735 1
+69D:\Work\Project\myLaya\.laya\chrome\ThirdPartyModuleList64\2018.8.8.0132744181206248063 1
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\1842fa77e7376211bf1c86d94519c5a8d77af818132744182133524318 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2019.full.d.ts121436361000000000 0
+109D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_libgcc_a131284428320000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\US132487482620000000 0
+69D:\Work\Project\myLaya\.laya\chrome\SSLErrorAssistant\7\manifest.json119599776000000000 0
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY132769425719628482 1
+40D:\Work\Project\myLaya\node_modules\.bin132769425722883824 1
+101D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics132744182136314574 1
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache\23a0f368cfa8612aaa3d443d25e0b90aa1230bd4132762714452949947 0
+26D:\Work\Project\myLaya\bin132769425653807573 1
+48D:\Work\Project\myLaya\node_modules\.bin\tsc.cmd132769425722878863 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2016.d.ts121436361000000000 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+83D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.symbol.wellknown.d.ts121436361000000000 0
+39D:\Work\Project\myLaya\src\dir\DemoA.ts132835043259887185 0
+55D:\Work\Project\myLaya\bin\libs\min\laya.physics.min.js132703913333133429 0
+34D:\Work\Project\myLaya\myLaya.laya132744160297745272 0
+43D:\Work\Project\myLaya\src\script\Bullet.ts132698475241238333 0
+55D:\Work\Project\myLaya\laya\assets\comp\vscroll$bar.png132744160301009945 0
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU132769425719668193 1
+79D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2017.sharedmemory.d.ts121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BW132487482620000000 0
+35D:\Work\Project\myLaya\bin\index.js132835046273397674 0
+35D:\Work\Project\myLaya\node_modules132769425722913584 1
+59D:\Work\Project\myLaya\node_modules\typescript\lib\lib.d.ts121436361000000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-sl.hyb132834738740000000 0
+42D:\Work\Project\myLaya\package - 副本.json132769425722978069 0
+92D:\Work\Project\myLaya\.laya\chrome\Default\optimization_guide_model_and_features_store\LOCK132744179063253473 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\TypeScriptLanguageService132769425720119546 1
+57D:\Work\Project\myLaya\bin\libs\min\laya.physics3D.min.js132703913336601070 0
+61D:\Work\Project\myLaya\.laya\chrome\Default\Sync Data\LevelDB132835047172768097 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CW132487482620000000 0
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA132769425719762425 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TV132487482620000000 0
+47D:\Work\Project\myLaya\package-lock - 副本.json132769425723576720 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\38eb6ff96cfa79a59b1be88cde784982b361f5af132744182133534026 0
+26D:\Work\Project\myLaya\src132835027093490347 1
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\TypeScriptLanguageService132769425719950897 1
+58D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\_metadata132744183183668658 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NZ132487482620000000 0
+48D:\Work\Project\myLaya\src\script\GameControl.ts132698475241248338 0
+59D:\Work\Project\myLaya\.laya\chrome\ClientSidePhishing\25.3132796234120538499 1
+36D:\Work\Project\myLaya\tsconfig.json132835038647002203 0
+90D:\Work\Project\myLaya\node_modules\typescript\lib\pt-br\diagnosticMessages.generated.json121436361000000000 0
+74D:\Work\Project\myLaya\.laya\chrome\DesktopSharingHub\20211020.1\_metadata132796233830264506 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SE132487482620000000 0
+30D:\Work\Project\myLaya\src\dir132835027260823678 1
+51D:\Work\Project\myLaya\src\DissolveSurfaceSprite.ts132761829812410624 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SA132487482620000000 0
+40D:\Work\Project\myLaya\src\GameConfig.ts132761815776445392 0
+34D:\Work\Project\myLaya\src\Main.ts132835044947726650 0
+46D:\Work\Project\myLaya\.laya\chrome\SwReporter132744179020235746 1
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+92D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache132762714452726745 1
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\Targets132769425720099697 1
+73D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\metadata\LOCK132744179065108509 0
+33D:\Work\Project\myLaya\src\script132772070236835415 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TL132487482620000000 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2020.full.d.ts121436361000000000 0
+36D:\Work\Project\myLaya\src\TSTest.ts132835027937091243 0
+83D:\Work\Project\myLaya\.laya\chrome\ThirdPartyModuleList64\2018.8.8.0\manifest.json131781427740000000 0
+89D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker\AvailabilityDB\LOG132835047207238667 0
+58D:\Work\Project\myLaya\.laya\chrome\ThirdPartyModuleList64132744181206218125 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TK132487482620000000 0
+44D:\Work\Project\myLaya\bin\libs\laya.html.js132703913332193858 0
+53D:\Work\Project\myLaya\.laya\publish_taobaominiapp.js132744160300863986 0
+57D:\Work\Project\myLaya\node_modules\typescript\AUTHORS.md121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AT132487482620000000 0
+29D:\Work\Project\myLaya\src\ui132772070236875389 1
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000002132744193631312029 0
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN132769425719722742 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ST132487482620000000 0
+52D:\Work\Project\myLaya\bin\libs\min\laya.html.min.js132703913332820912 0
+42D:\Work\Project\myLaya\src\ui\layaMaxUI.ts132761815776450351 0
+44D:\Work\Project\myLaya\src\script\DropBox.ts132698475241238333 0
+87D:\Work\Project\myLaya\node_modules\typescript\lib\fr\diagnosticMessages.generated.json121436361000000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\Targets132769425719777305 1
+74D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2018.promise.d.ts121436361000000000 0
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+43D:\Work\Project\myLaya\src\script\GameUI.ts132762714402821688 0
+46D:\Work\Project\myLaya\node_modules\typescript132769425722814399 1
+65D:\Work\Project\myLaya\node_modules\typescript\CODE_OF_CONDUCT.md121436361000000000 0
+50D:\Work\Project\myLaya\node_modules\typescript\bin132769425716317512 1
+66D:\Work\Project\myLaya\node_modules\typescript\CopyrightNotice.txt121436361000000000 0
+49D:\Work\Project\myLaya\laya\assets\test\block.png132698475241158320 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2019.d.ts121436361000000000 0
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS132769425720084830 1
+60D:\Work\Project\myLaya\laya\assets\comp\clip_tree_folder.png132744160300944063 0
+50D:\Work\Project\myLaya\node_modules\typescript\lib132769425719458896 1
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+58D:\Work\Project\myLaya\node_modules\typescript\LICENSE.txt121436361000000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-ga.hyb132834738740000000 0
+73D:\Work\Project\myLaya\.laya\chrome\MEIPreload\1.0.7.1635461274\_metadata132817167759607271 1
+50D:\Work\Project\myLaya\node_modules\typescript\loc132769425719483701 1
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2020.intl.d.ts121436361000000000 0
+91D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Unindexed Rules\9.32.0\manifest.json132791096880000000 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+71D:\Work\Project\myLaya\node_modules\typescript\ThirdPartyNoticeText.txt121436361000000000 0
+79D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-de-ch-1901.hyb132834738740000000 0
+72D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\metadata\LOG132835047207308096 0
+57D:\Work\Project\myLaya\bin\libs\min\domparserinone.min.js132703913332820912 0
+90D:\Work\Project\myLaya\.laya\chrome\ThirdPartyModuleList64\2018.8.8.0\manifest.fingerprint132744181206218125 0
+54D:\Work\Project\myLaya\node_modules\typescript\loc\lcl132769425720089792 1
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS132769425719528337 1
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR132769425719911222 1
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT132769425719572971 1
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2018.intl.d.ts121436361000000000 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA132769425719807062 1
+53D:\Work\Project\myLaya\node_modules\typescript\lib\cs132769425716332256 1
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\TypeScriptLanguageService132769425719658268 1
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB132769425720015387 1
+51D:\Work\Project\myLaya\laya\assets\comp\vscroll.png132744160301019918 0
+58D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK132769425720129465 1
+53D:\Work\Project\myLaya\node_modules\typescript\lib\it132769425716461217 1
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\TypeScriptDebugEngine132769425720109634 1
+86D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types132744182136344484 1
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\Targets132769425720045143 1
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\TypeScriptTasks132769425720134704 1
+63D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache\js\index132744179015757703 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CF132487482620000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+47D:\Work\Project\myLaya\laya\assets\test\tra.png132698475241188325 0
+54D:\Work\Project\myLaya\.laya\chrome\ClientSidePhishing132796238199090541 1
+90D:\Work\Project\myLaya\.laya\chrome\OptimizationHints\309\_metadata\verified_contents.json132832571240000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\TRK\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+90D:\Work\Project\myLaya\node_modules\typescript\lib\zh-cn\diagnosticMessages.generated.json121436361000000000 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\TypeScriptDebugEngine132769425720050103 1
+46D:\Work\Project\myLaya\bin\libs\laya.ttmini.js132703913332253882 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\TypeScriptLanguageService132769425720060016 1
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\TypeScriptTasks132769425720084830 1
+52D:\Work\Project\myLaya\laya\assets\comp\progress.png132744160300999961 0
+41D:\Work\Project\myLaya\.laya\pub_utils.js132744160300873959 0
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-hi.hyb132834738740000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+60D:\Work\Project\myLaya\bin\dist\DissolveSurfaceSprite.js.map132772070139042322 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\RUS\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+35D:\Work\Project\myLaya\libs\wx.d.ts132703913332373894 0
+53D:\Work\Project\myLaya\.laya\chrome\DesktopSharingHub132796238199090541 1
+59D:\Work\Project\myLaya\.laya\chrome\Default\History-journal132835047280444754 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.esnext.full.d.ts121436361000000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\Targets132769425719990586 1
+39D:\Work\Project\myLaya\libs\cannon.d.ts132703913332253882 0
+87D:\Work\Project\myLaya\.laya\chrome\DesktopSharingHub\20211020.1\desktop_sharing_hub.pb132792097760000000 0
+106D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage132744179035967599 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\RS132487482620000000 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\TypeScriptDebugEngine132769425719995553 1
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\TypeScriptTasks132769425719628482 1
+75D:\Work\Project\myLaya\.laya\chrome\Default\Sessions\Tabs_13283504572561932132835045725634371 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\TypeScriptLanguageService132769425720005466 1
+42D:\Work\Project\myLaya\bin\fileconfig.json132761815809515203 0
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\TypeScriptTasks132769425720020344 1
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2019.string.d.ts121436361000000000 0
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+47D:\Work\Project\myLaya\laya\assets\comp\tab.png132744160301009945 0
+46D:\Work\Project\myLaya\.laya\publish_hwgame.js132744160300844028 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+98D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Unindexed Rules\9.32.0\manifest.fingerprint132796700394495476 0
+48D:\Work\Project\myLaya\.laya\chrome\Default\LOCK132744179089194093 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+41D:\Work\Project\myLaya\.laya\chrome\pnacl132744179907136167 1
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PTB\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+47D:\Work\Project\myLaya\.laya\chrome\ShaderCache132744179015667940 1
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\Targets132769425719926109 1
+54D:\Work\Project\myLaya\.laya\chrome\Default\Login Data132796231339585276 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\TypeScriptDebugEngine132769425719945936 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AZ132487482620000000 0
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\TypeScriptTasks132769425719975696 1
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics\cache\291ee47ca837b943f936ba4e04d9faf9da768cf0132744182135716173 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PY132487482620000000 0
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\VC132487482620000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+80D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\manifest.fingerprint132835044678269117 0
+46D:\Work\Project\myLaya\laya\assets\test\b1.png132698475241148313 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\IN132487482620000000 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\DM132487482620000000 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+65D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\female_names.txt132403849380000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\YT132487482620000000 0
+56D:\Work\Project\myLaya\laya\assets\comp\progress$bar.png132744160300999961 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\JM132487482620000000 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\PLK\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AE132487482620000000 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\TypeScriptDebugEngine132769425719692989 1
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics\cache\cfc05af60deefa2454eaf4361f012cff6e28a4b3132744182135676279 0
+55D:\Work\Project\myLaya\.laya\chrome\SSLErrorAssistant\7132744180961087013 1
+65D:\Work\Project\myLaya\.laya\chrome\SafetyTips\2747\manifest.json119600064000000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\Targets132769425719881460 1
+47D:\Work\Project\myLaya\libs\spine-core-3.8.d.ts132703913332233872 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\TypeScriptDebugEngine132769425719891382 1
+79D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2020.sharedmemory.d.ts121436361000000000 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\TypeScriptLanguageService132769425719901305 1
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache\b802d9da1aaef1e548514b4cad19f5385835a841132762714454800016 0
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\TypeScriptTasks132769425719911222 1
+48D:\Work\Project\myLaya\bin\libs\laya.tiledmap.js132703913332243875 0
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+42D:\Work\Project\myLaya\laya\pageStyles.xml132698475241188325 0
+39D:\Work\Project\myLaya\bin\js\bundle.js132762714455519229 0
+57D:\Work\Project\myLaya\.laya\chrome\Crashpad\settings.dat132835047171855060 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+73D:\Work\Project\myLaya\.laya\chrome\Default\Local Storage\leveldb\LOG.old132835045700390261 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+79D:\Work\Project\myLaya\.laya\chrome\Default\optimization_guide_hint_cache_store132835047207174174 1
+62D:\Work\Project\myLaya\.laya\chrome\Default\Login Data-journal132796231344412296 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+72D:\Work\Project\myLaya\.laya\chrome\Default\Affiliation Database-journal132796231362659355 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LK132487482620000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-nb.hyb132834738740000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\KOR\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+33D:\Work\Project\myLaya\laya\.laya132744160300919577 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics\cache\79d417bf82999345f0070e0e5d9958b72ba72bc3132744182133623790 0
+74D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2021.weakref.d.ts121436361000000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\Targets132769425719821944 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PK132487482620000000 0
+55D:\Work\Project\myLaya\.laya\chrome\Default\Preferences132835047794327133 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\TypeScriptDebugEngine132769425719846745 1
+47D:\Work\Project\myLaya\.laya\chrome\hyphen-data132835045190726921 1
+54D:\Work\Project\myLaya\bin\libs\min\laya.ttmini.min.js132703913332820912 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\TypeScriptLanguageService132769425719856668 1
+50D:\Work\Project\myLaya\bin\libs\min\laya.ui.min.js132703913332977164 0
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\TypeScriptTasks132769425719866582 1
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+46D:\Work\Project\myLaya\.laya\publish_xmgame.js132744160300873959 0
+39D:\Work\Project\myLaya\bin\dist\Main.js132772070139096897 0
+78D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\47\download_file_types.pb132833664900000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\lib.esnext.d.ts121436361000000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+78D:\Work\Project\myLaya\.laya\chrome\OriginTrials\1.0.0.10\manifest.fingerprint132817167678305634 0
+65D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache\wasm\index132744179015757703 0
+54D:\Work\Project\myLaya\bin\libs\min\laya.device.min.js132703913332820912 0
+51D:\Work\Project\myLaya\laya\assets\comp\img_bg2.png132744160300984251 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+77D:\Work\Project\myLaya\.laya\chrome\Default\data_reduction_proxy_leveldb\LOCK132744179046195027 0
+54D:\Work\Project\myLaya\bin\libs\laya.physics3D.wasm.js132703913332313884 0
+38D:\Work\Project\myLaya\laya\pages\test132744160301572357 1
+55D:\Work\Project\myLaya\bin\libs\min\workerloader.min.js132703913332977164 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_00000c132817172024900745 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\JPN\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\DK132487482620000000 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\TypeScriptLanguageService132769425719792185 1
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code\cache\23a0f368cfa8612aaa3d443d25e0b90aa1230bd4132744182133813274 0
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\TypeScriptTasks132769425719807062 1
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+63D:\Work\Project\myLaya\.laya\chrome\Default\BudgetDatabase\LOCK132744179065078617 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CG132487482620000000 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2019.object.d.ts121436361000000000 0
+131D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\js\index-dir\the-real-index132744179037263836 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+76D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\metadata\CURRENT132744179067192934 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+46D:\Work\Project\myLaya\bin\libs\laya.bdmini.js132703913331873209 0
+113D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\LOCK132744179172902718 0
+92D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def132744182185565089 1
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ITA\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+55D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\45132796232260663542 1
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\Targets132769425719643386 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GY132487482620000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\Targets132769425719737627 1
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-te.hyb132834738740000000 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\TypeScriptDebugEngine132769425719747543 1
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\TypeScriptLanguageService132769425719752511 1
+116D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\js\index-dir132744179039102319 1
+53D:\Work\Project\myLaya\node_modules\typescript\lib\tr132769425716902486 1
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\TypeScriptTasks132769425719762425 1
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BA132487482620000000 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CN132487482620000000 0
+36D:\Work\Project\myLaya\libs\hbs.d.ts132703913332293882 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\FRA\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BM132487482620000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\Targets132769425719683063 1
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+46D:\Work\Project\myLaya\bin\libs\laya.vvmini.js132703913332253882 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MF132487482620000000 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\TypeScriptLanguageService132769425719697946 1
+64D:\Work\Project\myLaya\node_modules\typescript\lib\typescript.js121436361000000000 0
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\TypeScriptTasks132769425719722742 1
+61D:\Work\Project\myLaya\bin\libs\min\laya.cannonPhysics.min.js132703913332820912 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-da.hyb132834738740000000 0
+107D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics\cache132744182135825874 1
+46D:\Work\Project\myLaya\.laya\publish_layame.js132744160300854013 0
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+56D:\Work\Project\myLaya\laya\assets\comp\vscroll$down.png132744160301019918 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.core.d.ts121436361000000000 0
+53D:\Work\Project\myLaya\node_modules\.bin\tsserver.ps1132769425722883824 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BB132487482620000000 0
+46D:\Work\Project\myLaya\bin\test\TestScene.json132744160574741976 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+66D:\Work\Project\myLaya\.laya\chrome\Default\Login Data For Account132796231339585276 0
+130D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\MANIFEST-000001132744179037273815 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KH132487482620000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.d.ts121436361000000000 0
+56D:\Work\Project\myLaya\node_modules\typescript\lib\zh-cn132769425719444011 1
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\ESN\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+104D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_pnacl_json131284428320000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-eu.hyb132834738740000000 0
+63D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es6.d.ts121436361000000000 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\TypeScriptDebugEngine132769425719648346 1
+63D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es5.d.ts121436361000000000 0
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\TypeScriptTasks132769425719673144 1
+83D:\Work\Project\myLaya\.laya\chrome\Crowd Deny\2021.11.28.1202\manifest.fingerprint132835044635722764 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GQ132487482620000000 0
+38D:\Work\Project\myLaya\laya\ignore.cfg132744160301034303 0
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+63D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\male_names.txt132403849380000000 0
+76D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\47\manifest.fingerprint132835047992263664 0
+51D:\Work\Project\myLaya\laya\assets\comp\img_bg4.png132744160300984251 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000001132744193630893056 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SD132487482620000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\DEU\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+49D:\Work\Project\myLaya\laya\assets\comp\label.png132744160300999961 0
+72D:\Work\Project\myLaya\node_modules\typescript\lib\typescriptServices.js121436361000000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\Targets132769425719592821 1
+78D:\Work\Project\myLaya\.laya\chrome\OptimizationHints\309\manifest.fingerprint132835044511619593 0
+33D:\Work\Project\myLaya\bin\prefab132761815810403027 1
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\TypeScriptDebugEngine132769425719597779 1
+47D:\Work\Project\myLaya\laya\assets\test\103.png132750274401949186 0
+48D:\Work\Project\myLaya\.laya\layame\account.info132744160301639360 0
+83D:\Work\Project\myLaya\.laya\chrome\Default\optimization_guide_hint_cache_store\LOG132835047207174174 0
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\TypeScriptLanguageService132769425719602737 1
+54D:\Work\Project\myLaya\node_modules\typescript\bin\tsc121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ZW132487482620000000 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+78D:\Work\Project\myLaya\.laya\chrome\DesktopSharingHub\20211020.1\manifest.json132792097760000000 0
+70D:\Work\Project\myLaya\.laya\chrome\CertificateRevocation\7024\LICENSE132834384860000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CSY\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+103D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache132744179035967599 1
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2020.string.d.ts121436361000000000 0
+95D:\Work\Project\myLaya\.laya\chrome\Default\optimization_guide_model_and_features_store\LOG.old132835045731326984 0
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\TypeScriptDebugEngine132769425719558091 1
+84D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\TypeScriptLanguageService132769425719563058 1
+57D:\Work\Project\myLaya\bin\libs\min\spine-core-3.7.min.js132703913332977164 0
+56D:\Work\Project\myLaya\node_modules\typescript\lib\zh-tw132769425719463852 1
+56D:\Work\Project\myLaya\.laya\chrome\Default\Cache\data_3132796231357030357 0
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\TypeScriptTasks132769425719577930 1
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GN132487482620000000 0
+75D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.iterable.d.ts121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SJ132487482620000000 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\f8cbfc3108c744295d2f0330cabe2e9fb3068e40132762714452726745 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHT\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+77D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-und-ethi.hyb132834738740000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\Targets132769425719503540 1
+71D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Indexed Rules\32132817166946843569 1
+80D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\TypeScriptDebugEngine132769425719513457 1
+74D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\TypeScriptTasks132769425719533290 1
+87D:\Work\Project\myLaya\node_modules\typescript\lib\it\diagnosticMessages.generated.json121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CA132487482620000000 0
+99D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\TypeScriptTasks\TypeScript.Tasks.dll.lcl121436361000000000 0
+141D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl121436361000000000 0
+110D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
+94D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\Targets\ProjectItemsSchema.xaml.lcl121436361000000000 0
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache\291ee47ca837b943f936ba4e04d9faf9da768cf0132762714454899224 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ME132487482620000000 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\bae9926d4fb6885ffcc45dbbae087cd4d3b2926a132744182133543992 0
+93D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\Targets\TypeScriptCompile.xaml.lcl121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\FI132487482620000000 0
+103D:\Work\Project\myLaya\node_modules\typescript\loc\lcl\CHS\Targets\TypeScriptProjectProperties.xaml.lcl121436361000000000 0
+63D:\Work\Project\myLaya\node_modules\typescript\lib\lib.dom.d.ts121436361000000000 0
+60D:\Work\Project\myLaya\bin\libs\min\laya.tbpluginmini.min.js132703913332820912 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\cancellationToken.js121436361000000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-pa.hyb132834738740000000 0
+53D:\Work\Project\myLaya\node_modules\typescript\lib\de132769425716347135 1
+45D:\Work\Project\myLaya\bin\libs\qrcode.min.js132796236647453507 0
+53D:\Work\Project\myLaya\node_modules\typescript\lib\es132769425716372034 1
+53D:\Work\Project\myLaya\node_modules\typescript\lib\fr132769425716406657 1
+62D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\manifest.json132403849380000000 0
+78D:\Work\Project\myLaya\node_modules\typescript\lib\lib.webworker.iterable.d.ts121436361000000000 0
+53D:\Work\Project\myLaya\node_modules\typescript\lib\ja132769425716495948 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MA132487482620000000 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\10ebf3c243bed58a99d8fc05b7239b38a7c9bc6f132744182133524318 0
+39D:\Work\Project\myLaya\bin\version.json132744160300909609 0
+93D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Unindexed Rules\9.32.0\Filtering Rules132796700393713178 0
+53D:\Work\Project\myLaya\.laya\chrome\SSLErrorAssistant132744180961066764 1
+76D:\Work\Project\myLaya\.laya\chrome\Default\heavy_ad_intervention_opt_out.db132744179061937261 0
+65D:\Work\Project\myLaya\.laya\chrome\Default\Local Storage\leveldb132835047173308741 1
+53D:\Work\Project\myLaya\node_modules\typescript\lib\ko132769425716525696 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SL132487482620000000 0
+53D:\Work\Project\myLaya\.laya\chrome\OptimizationHints132835045187908985 1
+72D:\Work\Project\myLaya\node_modules\typescript\lib\lib.dom.iterable.d.ts121436361000000000 0
+77D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.collection.d.ts121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Unindexed Rules132817166903631529 1
+45D:\Work\Project\myLaya\bin\libs\laya.spine.js132703913332203857 0
+34D:\Work\Project\myLaya\laya\assets132744160301498918 1
+66D:\Work\Project\myLaya\.laya\chrome\Default\Download Service\Files132744179089194093 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AF132487482620000000 0
+53D:\Work\Project\myLaya\node_modules\typescript\lib\pl132769425716818172 1
+76D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.generator.d.ts121436361000000000 0
+72D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2019.array.d.ts121436361000000000 0
+68D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\manifest.json131284428320000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GW132487482620000000 0
+74D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.promise.d.ts121436361000000000 0
+51D:\Work\Project\myLaya\.laya\chrome\Default\LOG.old132835045733025678 0
+49D:\Work\Project\myLaya\bin\libs\laya.debugtool.js132703913332433913 0
+47D:\Work\Project\myLaya\.laya\chrome\WidevineCdm132744179017612756 1
+87D:\Work\Project\myLaya\node_modules\typescript\lib\cs\diagnosticMessages.generated.json121436361000000000 0
+72D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.proxy.d.ts121436361000000000 0
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code\cache\e310bfa4122813b32dd09335bdbbc4bbf8c13c10132744182133952906 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2015.symbol.d.ts121436361000000000 0
+49D:\Work\Project\myLaya\bin\libs\domparserinone.js132703913331873209 0
+80D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2016.array.include.d.ts121436361000000000 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2016.full.d.ts121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MP132487482620000000 0
+67D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\CURRENT132744179071573577 0
+56D:\Work\Project\myLaya\bin\libs\laya.physics3D.wasm.wasm132703913332508407 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2017.d.ts121436361000000000 0
+74D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2020.promise.d.ts121436361000000000 0
+88D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl132744179031760832 1
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-hu.hyb132834738740000000 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2017.full.d.ts121436361000000000 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2017.intl.d.ts121436361000000000 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2017.object.d.ts121436361000000000 0
+100D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics132762714455444815 1
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics\cache\23a0f368cfa8612aaa3d443d25e0b90aa1230bd4132744182133833217 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TD132487482620000000 0
+40D:\Work\Project\myLaya\laya\assets\sound132744160301498918 1
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\1842fa77e7376211bf1c86d94519c5a8d77af818132762714452005068 0
+78D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker\EventDB132835047207218814 1
+49D:\Work\Project\myLaya\.laya\publish_youkugame.js132744160300873959 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TR132487482620000000 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2017.string.d.ts121436361000000000 0
+50D:\Work\Project\myLaya\.laya\chrome\BrowserMetrics132835047204095687 1
+95D:\Work\Project\myLaya\.laya\chrome\Default\data_reduction_proxy_leveldb\CURRENT~RF262fc087.TMP132761805601006846 0
+78D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2017.typedarrays.d.ts121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MN132487482620000000 0
+81D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2018.asyncgenerator.d.ts121436361000000000 0
+80D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2018.asynciterable.d.ts121436361000000000 0
+56D:\Work\Project\myLaya\bin\libs\min\laya.tiledmap.min.js132703913332820912 0
+110D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Unindexed Rules\9.32.0\_metadata\verified_contents.json132796700394480587 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2018.d.ts121436361000000000 0
+46D:\Work\Project\myLaya\laya\assets\test\c2.png132698475241168318 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\typescript.d.ts121436361000000000 0
+85D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code132762714455420020 1
+50D:\Work\Project\myLaya\bin\libs\min\laya.d3.min.js132703913335456728 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2018.full.d.ts121436361000000000 0
+43D:\Work\Project\myLaya\.laya\chrome\Default132835047877640895 1
+55D:\Work\Project\myLaya\laya\assets\comp\vslider$bar.png132744160301034303 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache\79d417bf82999345f0070e0e5d9958b72ba72bc3132762714452751781 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2018.regexp.d.ts121436361000000000 0
+45D:\Work\Project\myLaya\bin\res\atlas\comp.png132744160561815005 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2019.symbol.d.ts121436361000000000 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2020.bigint.d.ts121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PM132487482620000000 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2020.d.ts121436361000000000 0
+62D:\Work\Project\myLaya\node_modules\typescript\lib\tsserver.js121436361000000000 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics\cache\7f38fbc924251c4d62c36dc9098571e5ac01f36c132744182135825874 0
+83D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2020.symbol.wellknown.d.ts121436361000000000 0
+74D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-en-gb.hyb132834738740000000 0
+89D:\Work\Project\myLaya\.laya\chrome\Default\Site Characteristics Database\MANIFEST-000001132744179017552933 0
+52D:\Work\Project\myLaya\laya\assets\sound\destroy.wav132698475241138310 0
+66D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2021.d.ts121436361000000000 0
+85D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code132744182136234815 1
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2021.full.d.ts121436361000000000 0
+39D:\Work\Project\myLaya\laya\assets\test132764343974828177 1
+74D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2021.promise.d.ts121436361000000000 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.es2021.string.d.ts121436361000000000 0
+59D:\Work\Project\myLaya\.laya\chrome\Default\Extension State132835047174196567 1
+92D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache132744182133543992 1
+74D:\Work\Project\myLaya\.laya\chrome\Default\AutofillStrikeDatabase\LOG.old132835045731341860 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\JO132487482620000000 0
+54D:\Work\Project\myLaya\bin\libs\min\laya.bdmini.min.js132703913332820912 0
+112D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\js\index132744179035977279 0
+71D:\Work\Project\myLaya\node_modules\typescript\lib\lib.esnext.intl.d.ts121436361000000000 0
+41D:\Work\Project\myLaya\bin\libs\worker.js132703913332223865 0
+65D:\Work\Project\myLaya\.laya\chrome\Floc\1.0.6\SortingLshClusters132614768760000000 0
+73D:\Work\Project\myLaya\node_modules\typescript\lib\lib.esnext.string.d.ts121436361000000000 0
+47D:\Work\Project\myLaya\bin\libs\laya.physics.js132703913332820912 0
+74D:\Work\Project\myLaya\node_modules\typescript\lib\lib.esnext.weakref.d.ts121436361000000000 0
+70D:\Work\Project\myLaya\node_modules\typescript\lib\lib.scripthost.d.ts121436361000000000 0
+46D:\Work\Project\myLaya\bin\libs\laya.qqmini.js132703913332273878 0
+69D:\Work\Project\myLaya\node_modules\typescript\lib\lib.webworker.d.ts121436361000000000 0
+83D:\Work\Project\myLaya\node_modules\typescript\lib\lib.webworker.importscripts.d.ts121436361000000000 0
+59D:\Work\Project\myLaya\.laya\chrome\Default\GPUCache\data_2132744179026444402 0
+64D:\Work\Project\myLaya\node_modules\typescript\lib\protocol.d.ts121436361000000000 0
+75D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\manifest.fingerprint132744179907136167 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CY132487482620000000 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics\cache\7f38fbc924251c4d62c36dc9098571e5ac01f36c132744182135835860 0
+56D:\Work\Project\myLaya\node_modules\typescript\lib\pt-br132769425716842967 1
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache\23a0f368cfa8612aaa3d443d25e0b90aa1230bd4132762714452944982 0
+60D:\Work\Project\myLaya\node_modules\typescript\lib\README.md121436361000000000 0
+31D:\Work\Project\myLaya\bin\dist132769425737855635 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\IQ132487482620000000 0
+31D:\Work\Project\myLaya\bin\libs132796236900684860 1
+53D:\Work\Project\myLaya\node_modules\typescript\lib\ru132769425716872718 1
+118D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_libcrt_platform_a131284428320000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-ml.hyb132834738740000000 0
+57D:\Work\Project\myLaya\node_modules\typescript\lib\tsc.js121436361000000000 0
+46D:\Work\Project\myLaya\.laya\chrome\Floc\1.0.6132744180436148798 1
+71D:\Work\Project\myLaya\node_modules\typescript\lib\tsserverlibrary.d.ts121436361000000000 0
+54D:\Work\Project\myLaya\bin\libs\min\laya.vvmini.min.js132703913332820912 0
+69D:\Work\Project\myLaya\node_modules\typescript\lib\tsserverlibrary.js121436361000000000 0
+74D:\Work\Project\myLaya\node_modules\typescript\lib\typescriptServices.d.ts121436361000000000 0
+64D:\Work\Project\myLaya\node_modules\typescript\lib\typesMap.json121436361000000000 0
+49D:\Work\Project\myLaya\.laya\chrome\Safe Browsing132744179017592808 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\UG132487482620000000 0
+49D:\Work\Project\myLaya\bin\libs\laya.physics3D.js132703913332977164 0
+66D:\Work\Project\myLaya\.laya\chrome\Default\AutofillStrikeDatabase132835047207198974 1
+70D:\Work\Project\myLaya\node_modules\typescript\lib\typingsInstaller.js121436361000000000 0
+64D:\Work\Project\myLaya\node_modules\typescript\lib\watchGuard.js121436361000000000 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_00000d132835044649045012 0
+71D:\Work\Project\myLaya\.laya\chrome\Default\AutofillStrikeDatabase\LOCK132744179063263424 0
+90D:\Work\Project\myLaya\node_modules\typescript\lib\zh-tw\diagnosticMessages.generated.json121436361000000000 0
+49D:\Work\Project\myLaya\bin\libs\spine-core-3.7.js132703913332508407 0
+87D:\Work\Project\myLaya\node_modules\typescript\lib\tr\diagnosticMessages.generated.json121436361000000000 0
+57D:\Work\Project\myLaya\.laya\chrome\OptimizationHints\309132835044511751332 1
+87D:\Work\Project\myLaya\node_modules\typescript\lib\ru\diagnosticMessages.generated.json121436361000000000 0
+87D:\Work\Project\myLaya\node_modules\typescript\lib\pl\diagnosticMessages.generated.json121436361000000000 0
+54D:\Work\Project\myLaya\laya\assets\comp\radiogroup.png132744160301009945 0
+87D:\Work\Project\myLaya\node_modules\typescript\lib\ko\diagnosticMessages.generated.json121436361000000000 0
+108D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache\data_0132744179039102319 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LV132487482620000000 0
+49D:\Work\Project\myLaya\laya\assets\comp\radio.png132744160300999961 0
+87D:\Work\Project\myLaya\node_modules\typescript\lib\ja\diagnosticMessages.generated.json121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\DE132487482620000000 0
+87D:\Work\Project\myLaya\node_modules\typescript\lib\es\diagnosticMessages.generated.json121436361000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AG132487482620000000 0
+87D:\Work\Project\myLaya\node_modules\typescript\lib\de\diagnosticMessages.generated.json121436361000000000 0
+59D:\Work\Project\myLaya\node_modules\typescript\bin\tsserver121436361000000000 0
+65D:\Work\Project\myLaya\.laya\chrome\SSLErrorAssistant\7\_metadata132744180961096956 1
+44D:\Work\Project\myLaya\node_modules\.bin\tsc132769425722878863 0
+84D:\Work\Project\myLaya\.laya\chrome\Default\Site Characteristics Database\000003.log132744179031760832 0
+50D:\Work\Project\myLaya\laya\assets\comp\img_bg.png132744160300974250 0
+109D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_crtend_o131284428320000000 0
+88D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\45\_metadata\verified_contents.json132796232259457947 0
+48D:\Work\Project\myLaya\node_modules\.bin\tsc.ps1132769425722878863 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics\cache\e310bfa4122813b32dd09335bdbbc4bbf8c13c10132744182133972858 0
+49D:\Work\Project\myLaya\node_modules\.bin\tsserver132769425722888793 0
+38D:\Work\Project\myLaya\libs\box2d.d.ts132703913332053871 0
+44D:\Work\Project\myLaya\bin\libs\laya.gltf.js132703913332153846 0
+37D:\Work\Project\myLaya\libs\glsl.d.ts132703913332223865 0
+40D:\Work\Project\myLaya\libs\LayaAir.d.ts132703913333675426 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-cy.hyb132834738740000000 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\785621204eb49a9a587accd79753db6c69b2e026132744182133543992 0
+49D:\Work\Project\myLaya\libs\layaAir.minigame.d.ts132703913332223865 0
+118D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_crtbegin_for_eh_o131284428320000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-mr.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\OptimizationHints\309\manifest.json132832571240000000 0
+38D:\Work\Project\myLaya\libs\union.d.ts132703913332323886 0
+33D:\Work\Project\myLaya\laya\pages132764343807543643 1
+40D:\Work\Project\myLaya\laya\pages\prefab132744160301562333 1
+63D:\Work\Project\myLaya\.laya\chrome\ShaderCache\GPUCache\data_0132744179015677916 0
+80D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e132744160591962755 1
+48D:\Work\Project\myLaya\bin\libs\laya.particle.js132703913332133841 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MD132487482620000000 0
+48D:\Work\Project\myLaya\laya\pages\TestView.scene132771335408298142 0
+108D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\wasm132744179035987255 1
+50D:\Work\Project\myLaya\laya\pages\test\TestAni.ani132698475241218331 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-tk.hyb132834738740000000 0
+54D:\Work\Project\myLaya\laya\pages\test\TestScene.scene132698475241218331 0
+59D:\Work\Project\myLaya\laya\assets\comp\clip_tree_arrow.png132744160300944063 0
+60D:\Work\Project\myLaya\.laya\chrome\Default\Favicons-journal132744179044597927 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\OM132487482620000000 0
+54D:\Work\Project\myLaya\laya\pages\prefab\Bullet.prefab132698475241198330 0
+55D:\Work\Project\myLaya\laya\pages\prefab\DropBox.prefab132698475241208340 0
+39D:\Work\Project\myLaya\laya\assets\comp132744160301034303 1
+48D:\Work\Project\myLaya\laya\assets\test\103.json132750274401826792 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_00000b132817168262670176 0
+46D:\Work\Project\myLaya\laya\assets\test\b2.png132698475241158320 0
+46D:\Work\Project\myLaya\laya\assets\test\c1.png132698475241168318 0
+112D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\LOG132744179175180708 0
+52D:\Work\Project\myLaya\laya\assets\comp\checkbox.png132744160300929551 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\WF132487482620000000 0
+46D:\Work\Project\myLaya\laya\assets\test\t1.png132698475241178326 0
+48D:\Work\Project\myLaya\laya\assets\sound\hit.wav132698475241138310 0
+53D:\Work\Project\myLaya\laya\assets\comp\btn_close.png132744160300929551 0
+50D:\Work\Project\myLaya\laya\assets\comp\button.png132744160300929551 0
+56D:\Work\Project\myLaya\laya\assets\comp\check_circle.png132744160300939524 0
+70D:\Work\Project\myLaya\.laya\chrome\Default\Extension State\000003.log132744179037273815 0
+57D:\Work\Project\myLaya\bin\libs\laya.physics3D.wasm-wx.js132703913332323886 0
+52D:\Work\Project\myLaya\laya\assets\comp\clip_num.png132744160300944063 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics\cache\23a0f368cfa8612aaa3d443d25e0b90aa1230bd4132744182133823249 0
+43D:\Work\Project\myLaya\bin\dist\Main.js.map132772070139280402 0
+55D:\Work\Project\myLaya\laya\assets\comp\colorPicker.png132744160300944063 0
+52D:\Work\Project\myLaya\laya\assets\comp\combobox.png132744160300954317 0
+60D:\Work\Project\myLaya\.laya\chrome\Default\Download Service132744179089194093 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\FR132487482620000000 0
+62D:\Work\Project\myLaya\bin\libs\min\laya.physics3D.wasm.min.js132703913332820912 0
+48D:\Work\Project\myLaya\.laya\chrome\Last Browser132835047206143718 0
+52D:\Work\Project\myLaya\laya\assets\comp\fontClip.png132744160300954317 0
+56D:\Work\Project\myLaya\laya\assets\comp\fontClip_num.png132744160300954317 0
+48D:\Work\Project\myLaya\.laya\publish_vivogame.js132744160300863986 0
+55D:\Work\Project\myLaya\laya\assets\comp\hscroll$bar.png132744160300954317 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BI132487482620000000 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache\3943a1f0821978730f0b2001e37808233029d38b132762714454378670 0
+111D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_crtbegin_o131284428320000000 0
+56D:\Work\Project\myLaya\laya\assets\comp\hscroll$down.png132744160300964308 0
+51D:\Work\Project\myLaya\laya\assets\comp\hscroll.png132744160300964308 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MW132487482620000000 0
+51D:\Work\Project\myLaya\laya\assets\comp\hslider.png132744160300974250 0
+44D:\Work\Project\myLaya\.laya\chrome\Crashpad132744179013513717 1
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache\7f38fbc924251c4d62c36dc9098571e5ac01f36c132762714455062902 0
+48D:\Work\Project\myLaya\laya\assets\comp\html.png132744160300974250 0
+49D:\Work\Project\myLaya\laya\assets\comp\image.png132744160300974250 0
+29D:\Work\Project\myLaya\bin\js132744160597409359 1
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache\6c77c1169e4df7cb4d041b865e8712251c074aff132762714454973627 0
+51D:\Work\Project\myLaya\laya\assets\comp\img_bg3.png132744160300984251 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SH132487482620000000 0
+51D:\Work\Project\myLaya\laya\assets\comp\img_bg5.png132744160300984251 0
+51D:\Work\Project\myLaya\.laya\chrome\Default\History132835047278543646 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\38eb6ff96cfa79a59b1be88cde784982b361f5af132762714452716806 0
+57D:\Work\Project\myLaya\bin\libs\min\laya.debugtool.min.js132703913332977164 0
+53D:\Work\Project\myLaya\laya\assets\comp\img_blank.png132744160300994235 0
+52D:\Work\Project\myLaya\laya\assets\comp\textarea.png132744160301009945 0
+91D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code\cache132744182135816141 1
+56D:\Work\Project\myLaya\bin\dist\DissolveSurfaceSprite.js132772070138957992 0
+62D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\passwords.txt132403849380000000 0
+53D:\Work\Project\myLaya\laya\assets\comp\textinput.png132744160301009945 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics\cache\291ee47ca837b943f936ba4e04d9faf9da768cf0132744182135726138 0
+54D:\Work\Project\myLaya\laya\assets\comp\vscroll$up.png132744160301019918 0
+51D:\Work\Project\myLaya\laya\assets\comp\vslider.png132744160301034303 0
+35D:\Work\Project\myLaya\dist\Main.js132835044942810752 0
+39D:\Work\Project\myLaya\dist\Main.js.map132835044942825641 0
+30D:\Work\Project\myLaya\bin\res132762700295015212 1
+32D:\Work\Project\myLaya\bin\sound132744160301468987 1
+95D:\Work\Project\myLaya\.laya\chrome\CertificateRevocation\7024\_metadata\verified_contents.json132834384860000000 0
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code\cache\79d417bf82999345f0070e0e5d9958b72ba72bc3132744182133583909 0
+88D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\47\_metadata\verified_contents.json119600064000000000 0
+122D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\CURRENT132744179042393523 0
+31D:\Work\Project\myLaya\bin\test132744160574885806 1
+65D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\data_1132835045161313575 0
+43D:\Work\Project\myLaya\bin\test\TestAni.ani132761815776361352 0
+44D:\Work\Project\myLaya\bin\sound\destroy.wav132698475241098302 0
+36D:\Work\Project\myLaya\bin\res\atlas132744160301453139 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ZA132487482620000000 0
+57D:\Work\Project\myLaya\.laya\chrome\CertificateRevocation132835045187908985 1
+46D:\Work\Project\myLaya\bin\res\bg_vip_img1.jpg132745203186943189 0
+43D:\Work\Project\myLaya\bin\res\Snipaste.png132762683879147959 0
+39D:\Work\Project\myLaya\bin\res\timg.jpg132761810007276889 0
+53D:\Work\Project\myLaya\bin\libs\min\bytebuffer.min.js132703913332443911 0
+69D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\manifest.fingerprint132744183183558414 0
+67D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\LOG.old132835045731589864 0
+40D:\Work\Project\myLaya\bin\res\timg1.jpg132761810007276889 0
+48D:\Work\Project\myLaya\bin\libs\laya.bilimini.js132703913331873209 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KN132487482620000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-as.hyb132834738740000000 0
+68D:\Work\Project\myLaya\.laya\chrome\Default\Network Persistent State132835047876636693 0
+77D:\Work\Project\myLaya\.laya\chrome\Default\Sync Data\LevelDB\MANIFEST-000001132744179021966189 0
+50D:\Work\Project\myLaya\bin\libs\laya.Alipaymini.js132703913331873209 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-nn.hyb132834738740000000 0
+42D:\Work\Project\myLaya\bin\res\win_VIP.png132745203187436670 0
+41D:\Work\Project\myLaya\bin\res\atlas\.rec132761815796263245 0
+47D:\Work\Project\myLaya\bin\res\atlas\comp.atlas132744160561815005 0
+47D:\Work\Project\myLaya\bin\res\atlas\test.atlas132698475241088305 0
+81D:\Work\Project\myLaya\.laya\chrome\Default\Site Characteristics Database\CURRENT132744179024768707 0
+53D:\Work\Project\myLaya\.laya\publish_bytedancegame.js132744160300844028 0
+45D:\Work\Project\myLaya\bin\res\atlas\test.png132698475241088305 0
+45D:\Work\Project\myLaya\bin\prefab\Bullet.json132761815809624544 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AO132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\HT132487482620000000 0
+65D:\Work\Project\myLaya\bin\libs\min\laya.physics3D.runtime.min.js132703913332820912 0
+40D:\Work\Project\myLaya\.laya\chrome\Floc132744180436128856 1
+46D:\Work\Project\myLaya\bin\prefab\DropBox.json132761815810293905 0
+45D:\Work\Project\myLaya\bin\libs\bytebuffer.js132703913332113843 0
+43D:\Work\Project\myLaya\bin\libs\laya.ani.js132703913332223865 0
+84D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\metadata\MANIFEST-000001132744179065108509 0
+39D:\Work\Project\myLaya\.laya\publish.js132744160300829887 0
+53D:\Work\Project\myLaya\bin\libs\laya.cannonPhysics.js132703913332508407 0
+44D:\Work\Project\myLaya\bin\libs\laya.core.js132761809199818991 0
+42D:\Work\Project\myLaya\bin\libs\laya.d3.js132703913335436718 0
+46D:\Work\Project\myLaya\bin\libs\laya.device.js132703913332083832 0
+108D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache\data_2132744179040269196 0
+69D:\Work\Project\myLaya\.laya\chrome\ClientSidePhishing\25.3\_metadata132796234120548419 1
+81D:\Work\Project\myLaya\.laya\chrome\Default\Site Characteristics Database\LOG.old132835045699442906 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\IS132487482620000000 0
+46D:\Work\Project\myLaya\bin\libs\laya.hwmini.js132703913332193858 0
+55D:\Work\Project\myLaya\bin\libs\laya.performancetool.js132703913332133841 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\f8cbfc3108c744295d2f0330cabe2e9fb3068e40132744182133543992 0
+57D:\Work\Project\myLaya\bin\libs\laya.physics3D.runtime.js132703913332203857 0
+53D:\Work\Project\myLaya\bin\libs\laya.quickgamemini.js132703913332243875 0
+54D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache132744179015757703 1
+46D:\Work\Project\myLaya\bin\libs\laya.tbmini.js132703913332243875 0
+52D:\Work\Project\myLaya\bin\libs\laya.tbpluginmini.js132703913332243875 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics\cache\b802d9da1aaef1e548514b4cad19f5385835a841132744182134172320 0
+42D:\Work\Project\myLaya\bin\libs\laya.ui.js132703913332383896 0
+76D:\Work\Project\myLaya\.laya\chrome\SSLErrorAssistant\7\manifest.fingerprint132744180961056778 0
+78D:\Work\Project\myLaya\.laya\chrome\Default\Site Characteristics Database\LOCK132744179017552933 0
+35D:\Work\Project\myLaya\bin\libs\min132744160298795290 1
+46D:\Work\Project\myLaya\bin\libs\laya.wxmini.js132703913332253882 0
+74D:\Work\Project\myLaya\.laya\chrome\AutofillRegex\2021.8.17.1300\_metadata132744183390929733 1
+70D:\Work\Project\myLaya\.laya\chrome\Default\Local Storage\leveldb\LOCK132744179017562893 0
+46D:\Work\Project\myLaya\bin\libs\laya.xmmini.js132703913332253882 0
+49D:\Work\Project\myLaya\bin\libs\spine-core-3.8.js132703913332508407 0
+47D:\Work\Project\myLaya\bin\libs\workerloader.js132703913332213865 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics\cache\e310bfa4122813b32dd09335bdbbc4bbf8c13c10132744182133983061 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-kn.hyb132834738740000000 0
+58D:\Work\Project\myLaya\bin\libs\min\laya.Alipaymini.min.js132703913332820912 0
+51D:\Work\Project\myLaya\bin\libs\min\laya.ani.min.js132703913332820912 0
+69D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\45\manifest.json132760928660000000 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics\cache\cfc05af60deefa2454eaf4361f012cff6e28a4b3132744182135387053 0
+56D:\Work\Project\myLaya\bin\libs\min\laya.bilimini.min.js132703913332820912 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BO132487482620000000 0
+52D:\Work\Project\myLaya\bin\libs\min\laya.core.min.js132703913333987939 0
+52D:\Work\Project\myLaya\bin\libs\min\laya.gltf.min.js132703913332820912 0
+56D:\Work\Project\myLaya\bin\libs\min\laya.particle.min.js132703913332820912 0
+54D:\Work\Project\myLaya\bin\libs\min\laya.hwmini.min.js132703913332820912 0
+63D:\Work\Project\myLaya\bin\libs\min\laya.performancetool.min.js132703913332820912 0
+65D:\Work\Project\myLaya\bin\libs\min\laya.physics3D.wasm-wx.min.js132703913332820912 0
+60D:\Work\Project\myLaya\bin\libs\min\laya.physics3D.wasm.wasm132703913333675426 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\6f7a4c93c3dd7ae3ce2c63e54adf9eefd6b83897132762714452721777 0
+49D:\Work\Project\myLaya\.laya\chrome\Default\Cache132796231357030357 1
+61D:\Work\Project\myLaya\.laya\chrome\Default\Reporting and NEL132835043846778847 0
+45D:\Work\Project\myLaya\bin\dist\GameConfig.js132772070139086969 0
+54D:\Work\Project\myLaya\bin\libs\min\laya.qqmini.min.js132703913332820912 0
+61D:\Work\Project\myLaya\bin\libs\min\laya.quickgamemini.min.js132703913332820912 0
+85D:\Work\Project\myLaya\.laya\chrome\DesktopSharingHub\20211020.1\manifest.fingerprint132796233830185137 0
+53D:\Work\Project\myLaya\bin\libs\min\laya.spine.min.js132703913332820912 0
+54D:\Work\Project\myLaya\bin\libs\min\laya.tbmini.min.js132703913332820912 0
+54D:\Work\Project\myLaya\bin\libs\min\laya.wxmini.min.js132703913332977164 0
+57D:\Work\Project\myLaya\.laya\chrome\Default\Visited Links132744179049521948 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MS132487482620000000 0
+54D:\Work\Project\myLaya\bin\libs\min\laya.xmmini.min.js132703913332977164 0
+63D:\Work\Project\myLaya\.laya\chrome\Default\Session Storage\LOG132835046945394441 0
+76D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-de-1996.hyb132834738740000000 0
+57D:\Work\Project\myLaya\bin\libs\min\spine-core-3.8.min.js132703913332977164 0
+49D:\Work\Project\myLaya\bin\libs\min\worker.min.js132703913332820912 0
+66D:\Work\Project\myLaya\.laya\chrome\Default\Sync Data\LevelDB\LOCK132744179017552933 0
+49D:\Work\Project\myLaya\bin\dist\GameConfig.js.map132772070139176309 0
+46D:\Work\Project\myLaya\.laya\publish_bdgame.js132744160300844028 0
+42D:\Work\Project\myLaya\.vscode\launch.json132744160300883933 0
+80D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f132761815832859068 1
+100D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics132744182136284667 1
+59D:\Work\Project\myLaya\.laya\chrome\Default\GPUCache\data_0132744179024768707 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\1c04e7a292d2da1ffe7996069adc42283a45d06f132744182133534026 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\4d27ef2f0421329961a2f95d0abcdd8217b96090132744182133543992 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ZM132487482620000000 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\types\cache\6f7a4c93c3dd7ae3ce2c63e54adf9eefd6b83897132744182133543992 0
+69D:\Work\Project\myLaya\.laya\chrome\Default\Reporting and NEL-journal132835045269977630 0
+83D:\Work\Project\myLaya\.laya\chrome\CertificateRevocation\7024\manifest.fingerprint132835044595020119 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics\cache\79d417bf82999345f0070e0e5d9958b72ba72bc3132744182133613828 0
+76D:\Work\Project\myLaya\.laya\chrome\Default\data_reduction_proxy_leveldb\LOG132835047204130352 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\syntacticDiagnostics\cache\b802d9da1aaef1e548514b4cad19f5385835a841132744182134162645 0
+125D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\000003.log132744179045176080 0
+106D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\semanticDiagnostics\cache132744182135835860 1
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code\cache\291ee47ca837b943f936ba4e04d9faf9da768cf0132744182135716173 0
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code\cache\7f38fbc924251c4d62c36dc9098571e5ac01f36c132744182135825874 0
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code\cache\b802d9da1aaef1e548514b4cad19f5385835a841132744182134162645 0
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_6ff68402ba5463f1cb2f37a500b73a9ca732524e\code\cache\cfc05af60deefa2454eaf4361f012cff6e28a4b3132744182135327523 0
+101D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics132762714455469620 1
+86D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types132762714455499386 1
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\10ebf3c243bed58a99d8fc05b7239b38a7c9bc6f132762714452000219 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\1c04e7a292d2da1ffe7996069adc42283a45d06f132762714452005068 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\4d27ef2f0421329961a2f95d0abcdd8217b96090132762714452716806 0
+133D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\types\cache\785621204eb49a9a587accd79753db6c69b2e026132762714452721777 0
+107D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache132762714455062902 1
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache\291ee47ca837b943f936ba4e04d9faf9da768cf0132762714454904182 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache\6c77c1169e4df7cb4d041b865e8712251c074aff132762714454978585 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache\b802d9da1aaef1e548514b4cad19f5385835a841132762714454804989 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KE132487482620000000 0
+51D:\Work\Project\myLaya\.laya\chrome\Default\Cookies132796231347582219 0
+148D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\syntacticDiagnostics\cache\e310bfa4122813b32dd09335bdbbc4bbf8c13c10132762714454869740 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MM132487482620000000 0
+106D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache132762714455067862 1
+53D:\Work\Project\myLaya\.laya\chrome\Crashpad\metadata132744179013513717 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache\291ee47ca837b943f936ba4e04d9faf9da768cf0132762714454914103 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache\3943a1f0821978730f0b2001e37808233029d38b132762714454730576 0
+49D:\Work\Project\myLaya\.laya\chrome\GrShaderCache132744179017353447 1
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache\6c77c1169e4df7cb4d041b865e8712251c074aff132762714454983551 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache\79d417bf82999345f0070e0e5d9958b72ba72bc3132762714452756506 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache\7f38fbc924251c4d62c36dc9098571e5ac01f36c132762714455067862 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache\b802d9da1aaef1e548514b4cad19f5385835a841132762714454809948 0
+147D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\semanticDiagnostics\cache\e310bfa4122813b32dd09335bdbbc4bbf8c13c10132762714454874656 0
+114D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_pnacl_sz_nexe131284428320000000 0
+91D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache132762714455058186 1
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache\23a0f368cfa8612aaa3d443d25e0b90aa1230bd4132762714452930380 0
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache\3943a1f0821978730f0b2001e37808233029d38b132762714454313953 0
+78D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Indexed Rules\32\9.32.0132796700394649237 1
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache\79d417bf82999345f0070e0e5d9958b72ba72bc3132762714452746585 0
+59D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache\wasm132744179022624430 1
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache\7f38fbc924251c4d62c36dc9098571e5ac01f36c132762714455058186 0
+64D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\LOCK132744179070075225 0
+132D:\Work\Project\myLaya\.rpt2_cache\rpt2_44b97dc8c118b6701aa90aa07cbc11c6c2a0a90f\code\cache\e310bfa4122813b32dd09335bdbbc4bbf8c13c10132762714454864505 0
+35D:\Work\Project\myLaya\.laya\chrome132835048625234244 1
+39D:\Work\Project\myLaya\.laya\compile.js132744160300829887 0
+95D:\Work\Project\myLaya\.laya\chrome\Crowd Deny\2021.11.28.1202\_metadata\verified_contents.json132825745620000000 0
+60D:\Work\Project\myLaya\.laya\chrome\BrowserMetrics-spare.pma132835048072270283 0
+35D:\Work\Project\myLaya\.laya\layame132744160301639360 1
+48D:\Work\Project\myLaya\.laya\publish_oppogame.js132744160300854013 0
+50D:\Work\Project\myLaya\.laya\publish_alipaygame.js132744160300829887 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\VG132487482620000000 0
+48D:\Work\Project\myLaya\.laya\publish_biligame.js132744160300844028 0
+46D:\Work\Project\myLaya\.laya\publish_qqgame.js132744160300854013 0
+52D:\Work\Project\myLaya\.laya\publish_taobaowidget.js132744160300863986 0
+46D:\Work\Project\myLaya\.laya\publish_wxgame.js132744160300863986 0
+91D:\Work\Project\myLaya\.laya\chrome\Default\optimization_guide_model_and_features_store\LOG132835047207184094 0
+49D:\Work\Project\myLaya\.laya\chrome\AutofillRegex132744183390899933 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SM132487482620000000 0
+50D:\Work\Project\myLaya\.laya\chrome\AutofillStates132744183267009171 1
+47D:\Work\Project\myLaya\.laya\chrome\Local State132835048624168318 0
+62D:\Work\Project\myLaya\.laya\chrome\CrashpadMetrics-active.pma132835047171840139 0
+46D:\Work\Project\myLaya\.laya\chrome\Crowd Deny132835045187894104 1
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_00000a132817167105889395 0
+52D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies132835047992268334 1
+48D:\Work\Project\myLaya\.laya\chrome\Last Version132835047172644082 0
+108D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage132744179175190679 1
+119D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\LOCK132744179037263836 0
+46D:\Work\Project\myLaya\.laya\chrome\MEIPreload132817167759577513 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BF132487482620000000 0
+53D:\Work\Project\myLaya\.laya\chrome\Module Info Cache132835045831578189 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SK132487482620000000 0
+60D:\Work\Project\myLaya\.laya\chrome\OnDeviceHeadSuggestModel132744179017612756 1
+59D:\Work\Project\myLaya\.laya\chrome\Default\Session Storage132835046945379571 1
+48D:\Work\Project\myLaya\.laya\chrome\OriginTrials132817174071544350 1
+108D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache\data_3132744179040887556 0
+52D:\Work\Project\myLaya\.laya\chrome\RecoveryImproved132744179017612756 1
+46D:\Work\Project\myLaya\.laya\chrome\SafetyTips132835045187904028 1
+54D:\Work\Project\myLaya\.laya\chrome\Subresource Filter132744180235031326 1
+84D:\Work\Project\myLaya\.laya\chrome\SafetyTips\2747\_metadata\verified_contents.json119600064000000000 0
+46D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData132744183183568442 1
+48D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1132744183183668658 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BT132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\english_wikipedia.txt132403849380000000 0
+81D:\Work\Project\myLaya\.laya\chrome\MEIPreload\1.0.7.1635461274\preloaded_data.pb132799104480000000 0
+61D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\surnames.txt132403849380000000 0
+67D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\us_tv_and_film.txt132403849380000000 0
+81D:\Work\Project\myLaya\.laya\chrome\ZxcvbnData\1\_metadata\verified_contents.json132403849380000000 0
+87D:\Work\Project\myLaya\.laya\chrome\ThirdPartyModuleList64\2018.8.8.0\module_list_proto131781427740000000 0
+69D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache\wasm\index-dir132744179023731474 1
+79D:\Work\Project\myLaya\.laya\chrome\ThirdPartyModuleList64\2018.8.8.0\_metadata132744181206258028 1
+102D:\Work\Project\myLaya\.laya\chrome\ThirdPartyModuleList64\2018.8.8.0\_metadata\verified_contents.json131781427740000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\DZ132487482620000000 0
+68D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Indexed Rules132796231384388401 1
+68D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\metadata132835047207308096 1
+77D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Unindexed Rules\9.32.0132796700394564931 1
+89D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Unindexed Rules\9.32.0\LICENSE.txt132717479300000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MV132487482620000000 0
+87D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Unindexed Rules\9.32.0\_metadata132796700394574828 1
+91D:\Work\Project\myLaya\.laya\chrome\Subresource Filter\Indexed Rules\32\9.32.0\Ruleset Data132796700394664110 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\RW132487482620000000 0
+78D:\Work\Project\myLaya\.laya\chrome\SSLErrorAssistant\7\ssl_error_assistant.pb131895725500000000 0
+88D:\Work\Project\myLaya\.laya\chrome\SSLErrorAssistant\7\_metadata\verified_contents.json119599776000000000 0
+56D:\Work\Project\myLaya\.laya\chrome\ShaderCache\GPUCache132744179015687904 1
+63D:\Work\Project\myLaya\.laya\chrome\ShaderCache\GPUCache\data_1132835045161318542 0
+74D:\Work\Project\myLaya\.laya\chrome\Default\Login Data For Account-journal132796231344412296 0
+63D:\Work\Project\myLaya\.laya\chrome\ShaderCache\GPUCache\data_2132744179015687904 0
+63D:\Work\Project\myLaya\.laya\chrome\ShaderCache\GPUCache\data_3132744179015687904 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GT132487482620000000 0
+62D:\Work\Project\myLaya\.laya\chrome\ShaderCache\GPUCache\index132744179015677916 0
+76D:\Work\Project\myLaya\.laya\chrome\Default\Local Storage\leveldb\000003.log132835046936724056 0
+51D:\Work\Project\myLaya\.laya\chrome\SafetyTips\2747132835044553815766 1
+72D:\Work\Project\myLaya\.laya\chrome\SafetyTips\2747\manifest.fingerprint132835044553755968 0
+66D:\Work\Project\myLaya\.laya\chrome\SafetyTips\2747\safety_tips.pb132834592400000000 0
+61D:\Work\Project\myLaya\.laya\chrome\SafetyTips\2747\_metadata132835044553820449 1
+54D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492132744179907156107 1
+64D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_metadata132744179907943277 1
+73D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific132744179907156107 1
+80D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64132744179907852706 1
+60D:\Work\Project\myLaya\.laya\chrome\Default\Web Data-journal132796231401163515 0
+92D:\Work\Project\myLaya\.laya\chrome\ClientSidePhishing\25.3\_metadata\verified_contents.json132796234120399603 0
+108D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_ld_nexe131284428320000000 0
+120D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_libpnacl_irt_shim_a131284428320000000 0
+126D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_libpnacl_irt_shim_dummy_a131284428320000000 0
+115D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_platform_specific\x86_64\pnacl_public_x86_64_pnacl_llc_nexe131284428320000000 0
+87D:\Work\Project\myLaya\.laya\chrome\pnacl\0.57.44.2492\_metadata\verified_contents.json131284428320000000 0
+57D:\Work\Project\myLaya\.laya\chrome\OriginTrials\1.0.0.10132817167678325473 1
+108D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache\data_1132744179172892723 0
+71D:\Work\Project\myLaya\.laya\chrome\OriginTrials\1.0.0.10\manifest.json119600064000000000 0
+67D:\Work\Project\myLaya\.laya\chrome\OriginTrials\1.0.0.10\_metadata132817167678330431 1
+90D:\Work\Project\myLaya\.laya\chrome\OriginTrials\1.0.0.10\_metadata\verified_contents.json119600064000000000 0
+79D:\Work\Project\myLaya\.laya\chrome\OptimizationHints\309\optimization-hints.pb132832571240000000 0
+67D:\Work\Project\myLaya\.laya\chrome\OptimizationHints\309\_metadata132835044511766215 1
+63D:\Work\Project\myLaya\.laya\chrome\MEIPreload\1.0.7.1635461274132817167759602320 1
+67D:\Work\Project\myLaya\.laya\chrome\Floc\1.0.6\manifest.fingerprint132744180436118880 0
+77D:\Work\Project\myLaya\.laya\chrome\MEIPreload\1.0.7.1635461274\manifest.json132799104480000000 0
+96D:\Work\Project\myLaya\.laya\chrome\MEIPreload\1.0.7.1635461274\_metadata\verified_contents.json132799104480000000 0
+59D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0132835044678736388 1
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-be.hyb132834738740000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MY132487482620000000 0
+56D:\Work\Project\myLaya\.laya\chrome\Default\blob_storage132835047204095687 1
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-bg.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-bn.hyb132834738740000000 0
+76D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-de-1901.hyb132834738740000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KZ132487482620000000 0
+86D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker\EventDB\LOG.old132835045731495631 0
+74D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-en-us.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-es.hyb132834738740000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BE132487482620000000 0
+118D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb\LOG132744179045176080 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-et.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-fr.hyb132834738740000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MX132487482620000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-gu.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-hr.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-hy.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-la.hyb132834738740000000 0
+76D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-mn-cyrl.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-or.hyb132834738740000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\EH132487482620000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-pt.hyb132834738740000000 0
+71D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\hyph-ta.hyb132834738740000000 0
+73D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\manifest.json132834738740000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MQ132487482620000000 0
+69D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\_metadata132835044678741355 1
+92D:\Work\Project\myLaya\.laya\chrome\hyphen-data\98.0.4756.0\_metadata\verified_contents.json132834738740000000 0
+83D:\Work\Project\myLaya\.laya\chrome\BrowserMetrics\BrowserMetrics-61B1A14D-6ED8.pma132835046597701995 0
+58D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache132835044649040050 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BH132487482620000000 0
+52D:\Work\Project\myLaya\.laya\chrome\Default\Favicons132744179042393523 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PE132487482620000000 0
+65D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\data_0132835045704219374 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PG132487482620000000 0
+65D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\data_2132744179020235746 0
+77D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\_metadata132744183268119937 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PF132487482620000000 0
+65D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\data_3132817178745291532 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000003132744193708944654 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000004132744193709256618 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000005132772054441123258 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000007132796231403137603 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000008132796518788875152 0
+67D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\f_000009132796520639221725 0
+64D:\Work\Project\myLaya\.laya\chrome\GrShaderCache\GPUCache\index132744179017552933 0
+60D:\Work\Project\myLaya\.laya\chrome\Floc\1.0.6\manifest.json132614768760000000 0
+56D:\Work\Project\myLaya\.laya\chrome\Floc\1.0.6\_metadata132744180436148798 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AX132487482620000000 0
+79D:\Work\Project\myLaya\.laya\chrome\Floc\1.0.6\_metadata\verified_contents.json132614768760000000 0
+55D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\47132835047992323176 1
+69D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\47\manifest.json119600064000000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CL132487482620000000 0
+65D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\47\_metadata132835047992327853 1
+78D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\45\download_file_types.pb132796232260395395 0
+76D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\45\manifest.fingerprint132796232260464841 0
+68D:\Work\Project\myLaya\.laya\chrome\Default\Download Service\EntryDB132835047209131676 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\IT132487482620000000 0
+65D:\Work\Project\myLaya\.laya\chrome\FileTypePolicies\45\_metadata132796232260678106 1
+64D:\Work\Project\myLaya\.laya\chrome\DesktopSharingHub\20211020.1132796233830239707 1
+97D:\Work\Project\myLaya\.laya\chrome\DesktopSharingHub\20211020.1\_metadata\verified_contents.json132792097760000000 0
+64D:\Work\Project\myLaya\.laya\chrome\Default\Affiliation Database132796231361738534 0
+58D:\Work\Project\myLaya\.laya\chrome\Default\BudgetDatabase132835047207263459 1
+59D:\Work\Project\myLaya\.laya\chrome\Default\Cookies-journal132796231350894818 0
+70D:\Work\Project\myLaya\.laya\chrome\Default\Session Storage\000003.log132835046945404360 0
+72D:\Work\Project\myLaya\.laya\chrome\Default\data_reduction_proxy_leveldb132835047206054538 1
+70D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker132744179063363161 1
+52D:\Work\Project\myLaya\.laya\chrome\Default\GPUCache132744179026454196 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BS132487482620000000 0
+84D:\Work\Project\myLaya\.laya\chrome\Default\heavy_ad_intervention_opt_out.db-journal132744179062535379 0
+47D:\Work\Project\myLaya\.laya\chrome\Default\LOG132835047209131676 0
+68D:\Work\Project\myLaya\.laya\chrome\Default\Network Action Predictor132744179073494753 0
+84D:\Work\Project\myLaya\.laya\chrome\Default\optimization_guide_hint_cache_store\LOCK132744179063243492 0
+76D:\Work\Project\myLaya\.laya\chrome\Default\Network Action Predictor-journal132744179074721481 0
+57D:\Work\Project\myLaya\.laya\chrome\Default\PreferredApps132744179063263424 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\DO132487482620000000 0
+50D:\Work\Project\myLaya\.laya\chrome\Default\README132744179015687904 0
+62D:\Work\Project\myLaya\.laya\chrome\Default\Secure Preferences132761805568115904 0
+52D:\Work\Project\myLaya\.laya\chrome\Default\Sessions132835047198803783 1
+59D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db132835047207332904 1
+53D:\Work\Project\myLaya\.laya\chrome\Default\Shortcuts132744179059204286 0
+61D:\Work\Project\myLaya\.laya\chrome\Default\Shortcuts-journal132744179060061996 0
+51D:\Work\Project\myLaya\.laya\chrome\Default\Storage132744179030136379 1
+53D:\Work\Project\myLaya\.laya\chrome\Default\Sync Data132744179017552933 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PT132487482620000000 0
+53D:\Work\Project\myLaya\.laya\chrome\Default\Top Sites132744179039720688 0
+61D:\Work\Project\myLaya\.laya\chrome\Default\Top Sites-journal132744179040887556 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CU132487482620000000 0
+61D:\Work\Project\myLaya\.laya\chrome\Default\TransportSecurity132835047275721322 0
+85D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker\AvailabilityDB132835047207238667 1
+52D:\Work\Project\myLaya\.laya\chrome\Default\Web Data132796231400568310 0
+72D:\Work\Project\myLaya\.laya\chrome\Default\Sync Data\LevelDB\000003.log132744179031760832 0
+69D:\Work\Project\myLaya\.laya\chrome\Default\Sync Data\LevelDB\CURRENT132744179026055281 0
+65D:\Work\Project\myLaya\.laya\chrome\Default\Sync Data\LevelDB\LOG132835047172768097 0
+69D:\Work\Project\myLaya\.laya\chrome\Default\Sync Data\LevelDB\LOG.old132835045699472678 0
+55D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext132744179031192355 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\VU132487482620000000 0
+107D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache\index132744179037273815 0
+101D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache132744179040269196 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MR132487482620000000 0
+75D:\Work\Project\myLaya\.laya\chrome\Default\Sessions\Tabs_13283504719880216132835047198813718 0
+117D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Network Persistent State132744182184616955 0
+119D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\000003.log132744179175200661 0
+78D:\Work\Project\myLaya\.laya\chrome\Default\Sessions\Session_13283504572445045132835046944809182 0
+58D:\Work\Project\myLaya\.laya\chrome\Default\GPUCache\index132744179022853841 0
+116D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\CURRENT132744179173932999 0
+124D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Session Storage\MANIFEST-000001132744179172912705 0
+114D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Local Storage\leveldb132744179045176080 1
+67D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache\js\index-dir132744179023731474 1
+75D:\Work\Project\myLaya\.laya\chrome\ClientSidePhishing\25.3\client_model.pb132646775600000000 0
+106D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\js132744179035977279 1
+114D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\wasm\index132744179035977279 0
+133D:\Work\Project\myLaya\.laya\chrome\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\wasm\index-dir\the-real-index132744179037273815 0
+77D:\Work\Project\myLaya\.laya\chrome\Default\Site Characteristics Database\LOG132835047172738337 0
+70D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\000003.log132835048409153268 0
+63D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\LOG132835047207332904 0
+75D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\MANIFEST-000001132744179070085238 0
+69D:\Work\Project\myLaya\.laya\chrome\Default\Local Storage\leveldb\LOG132835047173308741 0
+79D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\metadata\000003.log132835047207337864 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\WS132487482620000000 0
+76D:\Work\Project\myLaya\.laya\chrome\Default\shared_proto_db\metadata\LOG.old132835045731555147 0
+78D:\Work\Project\myLaya\.laya\chrome\Default\Sessions\Session_13283504719777649132835047746083522 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BJ132487482620000000 0
+67D:\Work\Project\myLaya\.laya\chrome\Default\Session Storage\CURRENT132744179044009488 0
+64D:\Work\Project\myLaya\.laya\chrome\Default\Session Storage\LOCK132744179035977279 0
+67D:\Work\Project\myLaya\.laya\chrome\Default\Session Storage\LOG.old132835045269565942 0
+75D:\Work\Project\myLaya\.laya\chrome\Default\Session Storage\MANIFEST-000001132744179039730676 0
+87D:\Work\Project\myLaya\.laya\chrome\Default\optimization_guide_hint_cache_store\LOG.old132835045731307456 0
+82D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache\js\index-dir\the-real-index132744179022624430 0
+73D:\Work\Project\myLaya\.laya\chrome\Default\Local Storage\leveldb\CURRENT132744179035977279 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\DJ132487482620000000 0
+88D:\Work\Project\myLaya\.laya\chrome\Default\data_reduction_proxy_leveldb\MANIFEST-000045132835047204140284 0
+81D:\Work\Project\myLaya\.laya\chrome\Default\Local Storage\leveldb\MANIFEST-000001132744179022624430 0
+59D:\Work\Project\myLaya\.laya\chrome\Default\GPUCache\data_1132835045269928014 0
+59D:\Work\Project\myLaya\.laya\chrome\Default\GPUCache\data_3132744179027892558 0
+83D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker\EventDB\LOCK132744179063363161 0
+82D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker\EventDB\LOG132835047207218814 0
+74D:\Work\Project\myLaya\.laya\chrome\AutofillRegex\2021.8.17.1300\data.json132742157660000000 0
+90D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker\AvailabilityDB\LOCK132744179063373160 0
+93D:\Work\Project\myLaya\.laya\chrome\Default\Feature Engagement Tracker\AvailabilityDB\LOG.old132835045731510504 0
+67D:\Work\Project\myLaya\.laya\chrome\Default\Extension State\CURRENT132744179029188913 0
+64D:\Work\Project\myLaya\.laya\chrome\Default\Extension State\LOCK132744179022624430 0
+63D:\Work\Project\myLaya\.laya\chrome\Default\Extension State\LOG132835047174196567 0
+67D:\Work\Project\myLaya\.laya\chrome\Default\Extension State\LOG.old132835045701094603 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AM132487482620000000 0
+75D:\Work\Project\myLaya\.laya\chrome\Default\Extension State\MANIFEST-000001132744179022634405 0
+73D:\Work\Project\myLaya\.laya\chrome\Default\Download Service\EntryDB\LOCK132744179089194093 0
+72D:\Work\Project\myLaya\.laya\chrome\Default\Download Service\EntryDB\LOG132835047209131676 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AR132487482620000000 0
+76D:\Work\Project\myLaya\.laya\chrome\Default\Download Service\EntryDB\LOG.old132835045733025678 0
+83D:\Work\Project\myLaya\.laya\chrome\Default\data_reduction_proxy_leveldb\000046.log132835047204135314 0
+80D:\Work\Project\myLaya\.laya\chrome\Default\data_reduction_proxy_leveldb\CURRENT132835047205095243 0
+80D:\Work\Project\myLaya\.laya\chrome\Default\data_reduction_proxy_leveldb\LOG.old132835045733558028 0
+57D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache\js132744179022624430 1
+84D:\Work\Project\myLaya\.laya\chrome\Default\Code Cache\wasm\index-dir\the-real-index132744179022624430 0
+56D:\Work\Project\myLaya\.laya\chrome\Default\Cache\data_0132796231357000585 0
+56D:\Work\Project\myLaya\.laya\chrome\Default\Cache\data_1132835046945498599 0
+56D:\Work\Project\myLaya\.laya\chrome\Default\Cache\data_2132796231357025399 0
+55D:\Work\Project\myLaya\.laya\chrome\Default\Cache\index132796231354510662 0
+66D:\Work\Project\myLaya\.laya\chrome\Default\BudgetDatabase\LOG.old132835045731525397 0
+70D:\Work\Project\myLaya\.laya\chrome\Default\AutofillStrikeDatabase\LOG132835047207198974 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\RO132487482620000000 0
+62D:\Work\Project\myLaya\.laya\chrome\Crowd Deny\2021.11.28.1202132835044635802121 1
+76D:\Work\Project\myLaya\.laya\chrome\Crowd Deny\2021.11.28.1202\manifest.json132825745620000000 0
+75D:\Work\Project\myLaya\.laya\chrome\Crowd Deny\2021.11.28.1202\Preload Data132825745640000000 0
+72D:\Work\Project\myLaya\.laya\chrome\Crowd Deny\2021.11.28.1202\_metadata132835044635802121 1
+52D:\Work\Project\myLaya\.laya\chrome\Crashpad\reports132744179013483778 1
+80D:\Work\Project\myLaya\.laya\chrome\ClientSidePhishing\25.3\manifest.fingerprint132796234120493860 0
+73D:\Work\Project\myLaya\.laya\chrome\ClientSidePhishing\25.3\manifest.json132787715740000000 0
+62D:\Work\Project\myLaya\.laya\chrome\CertificateRevocation\7024132835044595059804 1
+70D:\Work\Project\myLaya\.laya\chrome\CertificateRevocation\7024\crl-set132834384860000000 0
+76D:\Work\Project\myLaya\.laya\chrome\CertificateRevocation\7024\manifest.json132834384860000000 0
+72D:\Work\Project\myLaya\.laya\chrome\CertificateRevocation\7024\_metadata132835044595059804 1
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AD132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AS132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\AU132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BD132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BG132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BN132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BQ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BY132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\BZ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CD132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CH132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CI132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CM132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CO132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CV132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\CZ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\EC132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\EE132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\EG132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ER132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ES132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ET132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\FJ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\FM132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\FO132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GA132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GB132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GD132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GE132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GF132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GG132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GH132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GL132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GM132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GP132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\GR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\HK132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\HN132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\HR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\HU132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ID132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\IE132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\IL132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\IM132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\IR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\JE132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\JP132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KG132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KI132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KM132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KP132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KW132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\KY132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LA132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LB132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LC132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LI132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LS132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LT132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LU132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\LY132487482620000000 0
+88D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\manifest.fingerprint132744183266999191 0
+81D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\manifest.json132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MG132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MH132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MK132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\ML132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MU132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\MZ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NA132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NC132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NE132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NG132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NI132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NL132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NO132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NP132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\NU132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PA132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PH132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PL132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PS132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\PW132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\QA132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\RE132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\RU132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SB132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SI132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SN132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SO132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SR132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SS132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SV132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SX132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SY132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\SZ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TC132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TG132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TH132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TJ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TM132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TN132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TO132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TT132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TW132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\TZ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\UA132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\UZ132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\VE132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\VI132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\VN132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\XK132487482620000000 0
+70D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\YE132487482620000000 0
+100D:\Work\Project\myLaya\.laya\chrome\AutofillStates\2020.11.2.164946\_metadata\verified_contents.json132487482620000000 0
+64D:\Work\Project\myLaya\.laya\chrome\AutofillRegex\2021.8.17.1300132744183390929733 1
+85D:\Work\Project\myLaya\.laya\chrome\AutofillRegex\2021.8.17.1300\manifest.fingerprint132744183390889855 0
+78D:\Work\Project\myLaya\.laya\chrome\AutofillRegex\2021.8.17.1300\manifest.json119599776000000000 0
+97D:\Work\Project\myLaya\.laya\chrome\AutofillRegex\2021.8.17.1300\_metadata\verified_contents.json119599776000000000 0
